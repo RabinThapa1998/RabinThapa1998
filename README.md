@@ -1,4 +1,4 @@
-### Hi there 👋. I am Rabin Thapa ,I am Full Stack Developer.
+### Hi there 👋. I am Rabin Thapa ,I am Software Developer.
 
 -   🌱 I’m currently working at Ingrails as a frontend developer
 -   💬 Talk to me about new technologies
