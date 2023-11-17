@@ -1,4 +1,4 @@
-### Hi there 👋. I am Rabin Thapa ,I am Software Developer.
+### Hi there 👋. I am Rabin Thapa ,I am a  Software Developer.
 
 -   🌱 I’m currently working at Ingrails as a frontend developer
 -   💬 Talk to me about new technologies
